@@ -1,9 +1,9 @@
 {
-  "name": "YouTube",
-  "short_name": "YouTube",
-  "description": "YouTube",
+  "name": "AS's Extension for YouTube",
+  "short_name": "AS: 00",
+  "description": "Simple extension to click a button",
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "author": "AS",
   "content_scripts":[
     {
